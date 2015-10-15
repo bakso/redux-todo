@@ -1,0 +1,11 @@
+.DS_Store
+.taprc/
+config.json
+.git/
+seed.js
+.idea/
+peaches/
+*.iml
+node_modules/
+npm-debug.log
+.clam/
