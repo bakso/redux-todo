@@ -22,7 +22,6 @@ class App extends Component {
         <TodoList
           todos={this.props.visibleTodos}
           onTodoClick={index =>{
-              debugger;
               dispatch(completeTodo(index))
           }}
         />
